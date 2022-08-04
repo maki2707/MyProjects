@@ -1,14 +1,14 @@
-# MyProjects
-Projects I have worked on.
+# Moji projekti
 
 ## 1.NutPlan
 
-The developed mobile application offers the possibility of managing your own recipes, 
-planning your diet, keeping records of available groceries and creating a list for the store. 
+Razvijena mobilna aplikacija ima mogućnost evidencije vlastitih recepata, planiranje 
+prehrane, vođenje evidencije o raspoloživim namirnicama te stvaranje popisa za trgovinu. 
 
-The mobile application was developed using the React Native JavaScript framework and is 
-intended for use on devices with the Android operating system. Google's NOSQL Cloud 
-Firestore Database solution was used for the database. 
+Mobilna aplikacija razvijena je korištenje JavaScript radnog okvira React Native te je 
+namijenjena za korištenje na uređajima s Android operacijskim sustavom. Za bazu podataka 
+korišteno je Googleovo rješenje – NOSQL baza podataka Cloud Firestore Database. 
 
-Keywords: Android application, React Native, Firebase, Firestore, nutrition, recipe, 
-ingredients, grocery list, planning, pantry 
+Ključne riječi: Android aplikacija, ReactNative, Firebase, Firestore, prehrana, recept, 
+sastojci, popis za trgovinu, planiranje, smočnica
+
