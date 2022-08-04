@@ -32,6 +32,5 @@ Tehnička dokumentacija sadrži detaljniji pregled tehničke strane projekta –
 repozitorija, dijagrami baze podataka, dijagram komponenti i dijagram klasa, te naravno 
 korisničke upute za korištenje aplikacije. 
 
-[Poveznica na web aplikaciju -  ProjControl](https://projcontrol.herokuapp.com/)
 
 moja pozicija: voditelj projekta, glavni frontend developer
