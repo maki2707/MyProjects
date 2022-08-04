@@ -1,0 +1,17 @@
+
+Pozdrav {{name}},
+
+Uspješno ste kupili kartu putem usluge PassDirect!
+
+Detalji o dolasku vlaka su u nastavku:
+Polazište : {{ polaziste }}
+Vrijeme dolaska vlaka : {{ vrijemepolazak }}
+Šifra vlaka : {{ sifra_vlaka }}
+Peron : {{ peron }}
+
+Zbog Vaše sigurnosti, sustav Gotcha! predlaže da se smjestite u {{ sekcija }} dio vagona.
+
+Hvala Vam što ste koristili uslugu PassDirect!
+
+Srdačan pozdrav,
+    Vaš PassDirect tim

@@ -1,0 +1,2 @@
+web: gunicorn passdirect.wsgi --log-file -
+worker: celery -A passdirect worker -B -l info --pool=solo

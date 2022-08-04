@@ -1,0 +1,16 @@
+
+Pozdrav {{name}},
+
+Uspješno ste kupili kartu putem usluge PassDirect!
+
+Detalji vaše karte su u nastavku:
+Polazište : {{ polaziste }}
+Odredište : {{ odrediste }}
+Predviđeno vrijeme polaska : {{ vrijemepolazak }}
+Predviđeno vrijeme dolaska : {{ vrijemedolazak }}
+Cijena    : {{ cijena }}kn
+
+Hvala Vam što ste koristili uslugu PassDirect!
+
+Srdačan pozdrav,
+    Vaš PassDirect tim
